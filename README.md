@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Alex</h1>
+<h1 align="center">Olá, eu sou o Alex</h1>
 <h3 align="center">Graduando em Sistemas de Informação pelo Mackenzie</h3>
 
 - 🔭 Atualmente cursando 2°semestre do curso Sistemas de Informação **pela Universidade Presbiteriana Mackenzie**
